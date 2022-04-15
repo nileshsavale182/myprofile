@@ -64,7 +64,7 @@
                             <p>I'm</p>
                             <h1>Nilesh Savale</h1>
                             <h2></h2>
-                            <div class="typed-text">Mechanical Engineer, Web Developer, Artist, </div>
+                            <div class="typed-text">Web Developer, Mechanical Designer, Graphics Designer, Digital Marketeer </div>
                         </div>
                         <div class="hero-btn">
                             <!-- <a class="btn" href="">Hire Me</a> -->
